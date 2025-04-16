@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../IS201"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "startbootstrap-clean-blog-gh-pages"
+	}
+}
